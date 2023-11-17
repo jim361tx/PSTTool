@@ -1,1 +1,3 @@
 # PSTTool
+PSTTool - Powershell Technicians Tool
+PSTTool is an attempt at a complete rewrite of a system tweaking and general repair tool that started back in 2011.  Initially, it was written in batch, and this is my first attempt at moving it to Powershell.  I will happily accept any additions or changes the community puts forward.  I am new to Powershell, and my code may not be the cleanest, but it works.  My rules for this project are relatively simple.  Any additional files needed to run a function must be available on the public internet for direct download and licensed appropriately.  I try to maintain a minimal GUI without a mess of console output.  This script has a few unusual choices because it was made for me and my work environment.  
